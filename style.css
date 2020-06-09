@@ -58,7 +58,7 @@ nav.desktop a:hover i {
 
 header {
     width: calc(100% - 500px);
-    background-image: url(/pianino.jpg);
+    background-image: url(pianino.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
